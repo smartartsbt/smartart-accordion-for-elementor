@@ -1,0 +1,113 @@
+msgid "Smart Accordion"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Enter your text here..."
+msgstr ""
+
+msgid "Enable Accordion"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Visible Lines"
+msgstr ""
+
+msgid "Icons & Labels"
+msgstr ""
+
+msgid "Enable Icons"
+msgstr ""
+
+msgid "Open Icon"
+msgstr ""
+
+msgid "Close Icon"
+msgstr ""
+
+msgid "Open Text"
+msgstr ""
+
+msgid "Read More"
+msgstr ""
+
+msgid "Close Text"
+msgstr ""
+
+msgid "Read Less"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Text Color"
+msgstr ""
+
+msgid "Typography"
+msgstr ""
+
+msgid "Text Alignment"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Button Style"
+msgstr ""
+
+msgid "Button Text Color"
+msgstr ""
+
+msgid "Button Background Color"
+msgstr ""
+
+msgid "Button Border Radius"
+msgstr ""
+
+msgid "Button Padding"
+msgstr ""
+
+msgid "Button Typography"
+msgstr ""
+
+msgid "button"
+msgstr ""
+
+msgid "accordion"
+msgstr ""
+
+msgid "normal-text"
+msgstr ""
+
+msgid "accordion-toggle"
+msgstr ""
+
+msgid "accordion-content"
+msgstr ""
+
+msgid "accordion-open"
+msgstr ""
+
+msgid "accordion-close"
+msgstr ""
+
+msgid "accordion-text"
+msgstr ""
+
+msgid "plugin-name"
+msgstr ""

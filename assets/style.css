@@ -1,0 +1,53 @@
+.smart-accordion-widget {
+    position: relative;
+    font-family: Arial, sans-serif;
+    margin: 10px auto;
+}
+
+.accordion-content {
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+}
+
+.accordion-toggle {
+    display: block;
+    background: #0073aa;
+    color: #fff;
+    border: none;
+    padding: 8px 15px;
+    margin-top: 5px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.accordion-toggle:hover {
+    background: #005f87;
+}
+
+/* Normal button background color */
+.accordion-toggle {
+    background-color: var(--button-bg-color); /* Default background color */
+}
+
+/* Hover button background color */
+.accordion-toggle:hover {
+    background-color: var(--button-bg-hover-color); /* Background color on hover */
+}
+
+
+/* Show the open icon when the accordion is collapsed */
+.accordion-toggle.collapsed .accordion-open {
+    display: inline-block;
+}
+
+/* Show the close icon when the accordion is expanded */
+.accordion-toggle.expanded .accordion-close {
+    display: inline-block;
+}
+
+/* Optional: Hide the icon when icons are disabled */
+.accordion-toggle .accordion-open.hidden,
+.accordion-toggle .accordion-close.hidden {
+    display: none;
+}
