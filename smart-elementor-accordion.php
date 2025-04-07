@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Smart Elementor Accordion
-* Plugin URI: http://smartart.hu
+* Plugin URI: https://github.com/smartartsbt/smart-elementor-accordion
 * Description: A custom Elementor widget that allows you to easily create an accordion-style content block with toggle functionality in your Elementor-powered WordPress site.
 * Version: 1.0.0
 * Contributors: smartartsbt
