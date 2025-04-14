@@ -1,4 +1,4 @@
-=== Smart Elementor Accordion ===
+=== Smartart Accordion for Elementor  ===
 Contributors: smartartsbt
 Donate link: http://smartart.hu
 Tags: accordion, elementor, widget, collapsible
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Smart Elementor Accordion is a custom Elementor widget that allows you to easily create an accordion-style content block with toggle functionality in your Elementor-powered WordPress site.
+Smartart Accordion for Elementor is a custom Elementor widget that allows you to easily create an accordion-style content block with toggle functionality in your Elementor-powered WordPress site.
 
 ### Features:
 
