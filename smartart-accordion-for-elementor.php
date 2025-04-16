@@ -15,6 +15,7 @@
 * Requires at least: 5.0
 * Tested up to: 6.0
 * Stable tag: 1.0.0
+* Requires Plugins: elementor
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
