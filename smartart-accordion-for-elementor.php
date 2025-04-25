@@ -13,7 +13,7 @@
 * Domain Path: /languages
 * Tags: accordion, elementor, widget, collapsible
 * Requires at least: 5.0
-* Tested up to: 6.0
+* Tested up to: 6.8
 * Stable tag: 1.0.0
 * Requires Plugins: elementor
 */
